@@ -86,6 +86,7 @@ function animalMap(options) {
 
 function animalPopularity(rating) {
   // your code here
+  
 }
 
 function animalsByIds(ids) {
